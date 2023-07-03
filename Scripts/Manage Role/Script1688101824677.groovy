@@ -17,18 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://cmiti-tst.outsystemsenterprise.com/AccountingSystem/Login')
-
-WebUI.setText(findTestObject('Object Repository/Manage Role/Page_Login/input_Sign-in continue session_Input_Username'), 
-    'Jonna Rili')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Manage Role/Page_Login/input_Sign-in continue session_Input_Password'), 
-    'iFGeFYmXIrU6ruIopQUS+w==')
-
-WebUI.click(findTestObject('Object Repository/Manage Role/Page_Login/button_Login'))
-
 WebUI.click(findTestObject('Object Repository/Manage Role/Page_Home Page/div_Report_osui-accordion-item__icon osui-a_d9ee91'))
 
 WebUI.click(findTestObject('Object Repository/Manage Role/Page_Home Page/div_Report_osui-accordion-item__icon osui-a_d9ee91'))
