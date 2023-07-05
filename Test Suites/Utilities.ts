@@ -12,17 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>1c6d8743-0361-4040-8b2c-f36ddf3c8208</testSuiteGuid>
    <testCaseLink>
-      <guid>1d8421a8-3d8c-48c1-95c1-e2a7e7a258de</guid>
+      <guid>404b45e8-d9de-42fa-babc-16a4d2a1b7d8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>e667917b-a30c-453b-9a28-005951bc4c0a</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Manage Role</testCaseId>
+      <testCaseId>Test Cases/tetsinglogin</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

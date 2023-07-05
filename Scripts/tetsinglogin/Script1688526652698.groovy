@@ -33,6 +33,8 @@ WebUI.click(findTestObject('Object Repository/Page_Login/button_Login'))
 
 WebUI.click(findTestObject('Object Repository/Page_Login/i_Sign-in continue session_notview'))
 
+WebUI.delay(1)
+
 WebUI.setText(findTestObject('Object Repository/Page_Login/input_Sign-in continue session_Input_Password_1'), 'P@ssw0rd123')
 
 WebUI.click(findTestObject('Object Repository/Page_Login/button_Login'))
