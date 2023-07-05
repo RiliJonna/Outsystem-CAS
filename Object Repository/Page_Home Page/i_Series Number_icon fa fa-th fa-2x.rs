@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Series Number_icon fa fa-th fa-2x</name>
+   <tag></tag>
+   <elementGuidId>a90f8668-f676-4792-ad63-7b6c00775eb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.fa.fa-th.fa-2x</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b1-b2-$b1']/div/div/div[2]/div/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>309c4400-b009-4b0f-af85-f14e483c383c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-th fa-2x</value>
+      <webElementGuid>a4814008-208b-4447-93c1-2091d20dec5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b1-b2-$b1&quot;)/div[@class=&quot;user-info ThemeGrid_Margin10First&quot;]/div[@class=&quot;margin-left-s&quot;]/div[@class=&quot;popover custom-popover&quot;]/div[@class=&quot;popover-top&quot;]/div[@class=&quot;ThemeGrid_Margin3First&quot;]/div[1]/i[@class=&quot;icon fa fa-th fa-2x&quot;]</value>
+      <webElementGuid>6221fe71-3fe3-4413-82c6-7ebee2932084</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b1-b2-$b1']/div/div/div[2]/div/div/div/i</value>
+      <webElementGuid>0372c16a-2101-4478-84d5-96a6c14e69f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div/div/div[2]/div/div/div/i</value>
+      <webElementGuid>89127449-6c36-4a11-b4e4-ccd1d25d296f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
