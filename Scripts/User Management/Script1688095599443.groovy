@@ -53,6 +53,8 @@ WebUI.click(findTestObject('Object Repository/User Management/Page_Manage User/i
 
 WebUI.click(findTestObject('Object Repository/User Management/Page_Manage User/i_Series Number_icon fa fa-th fa-2x'))
 
+WebUI.delay(1)
+
 WebUI.click(findTestObject('Object Repository/User Management/Page_Manage User/span_Logout'))
 
 WebUI.click(findTestObject('Object Repository/User Management/Page_Manage User/button_Logout'))
