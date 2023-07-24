@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+CAS Oustsystem,Chrome 114.0.0.0,,,2023-07-24 10:42:44,2023-07-24 10:42:56,12.604s,PASSED
+,,,,,,,
+Test Cases/LoginOutsystem,Chrome 114.0.0.0,,,2023-07-24 10:42:44,2023-07-24 10:42:52,7.791s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-24 10:42:44,2023-07-24 10:42:47,2.561s,PASSED
+"navigateToUrl(""https://cmiti-tst.outsystemsenterprise.com/AccountingSystem/MainPage"")",Chrome 114.0.0.0,,,2023-07-24 10:42:47,2023-07-24 10:42:48,0.802s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_Login/input_LOGIN_Input_Username2""), ""Jonna Rili"")",Chrome 114.0.0.0,,,2023-07-24 10:42:48,2023-07-24 10:42:51,2.855s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Page_Login/input_LOGIN_Input_Password2""), ""iFGeFYmXIrU6ruIopQUS+w=="")",Chrome 114.0.0.0,,,2023-07-24 10:42:51,2023-07-24 10:42:51,0.655s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_Login/button_Login""))",Chrome 114.0.0.0,,,2023-07-24 10:42:51,2023-07-24 10:42:52,0.541s,PASSED
+,,,,,,,
+Test Cases/Logout,Chrome 114.0.0.0,,,2023-07-24 10:42:52,2023-07-24 10:42:56,4.537s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_Home Page/i_Rili,Jonna Sr. Finance Officer_icon fa fa_be7e34""))",Chrome 114.0.0.0,,,2023-07-24 10:42:52,2023-07-24 10:42:54,2.192s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_Home Page/span_Logout""))",Chrome 114.0.0.0,,,2023-07-24 10:42:54,2023-07-24 10:42:55,0.547s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_Home Page/button_Logout""))",Chrome 114.0.0.0,,,2023-07-24 10:42:55,2023-07-24 10:42:55,0.524s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-24 10:42:55,2023-07-24 10:42:56,0.799s,PASSED

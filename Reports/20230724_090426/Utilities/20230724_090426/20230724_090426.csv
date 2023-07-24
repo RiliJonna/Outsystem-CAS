@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Utilities,Chrome 114.0.0.0,,,2023-07-24 09:04:29,2023-07-24 09:05:47,1m - 18.371s,PASSED
+,,,,,,,
+Test Cases/tetsinglogin,Chrome 114.0.0.0,,,2023-07-24 09:04:29,2023-07-24 09:05:47,1m - 18.100s,PASSED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-24 09:04:29,2023-07-24 09:04:34,4.160s,PASSED
+"navigateToUrl(""https://cmiti-tst.outsystemsenterprise.com/AccountingSystem/Login"")",Chrome 114.0.0.0,,,2023-07-24 09:04:34,2023-07-24 09:04:34,0.802s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/input_Sign-in continue session_Input_Username""), ""Jonna Rili"")",Chrome 114.0.0.0,,,2023-07-24 09:04:34,2023-07-24 09:04:37,2.374s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login/input_Sign-in continue session_Input_Password""), ""9NLz+4tGZcQ="")",Chrome 114.0.0.0,,,2023-07-24 09:04:37,2023-07-24 09:04:37,0.612s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/input_Sign-in continue session_Input_Username""), ""Jonna Rili"")",Chrome 114.0.0.0,,,2023-07-24 09:04:37,2023-07-24 09:04:38,0.767s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login/input_Sign-in continue session_Input_Password""), ""MHSUC33hkPnBWRnjFBNCPA=="")",Chrome 114.0.0.0,,,2023-07-24 09:04:38,2023-07-24 09:04:39,0.570s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/button_Login""))",Chrome 114.0.0.0,,,2023-07-24 09:04:39,2023-07-24 09:04:39,0.568s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/i_Sign-in continue session_notview""))",Chrome 114.0.0.0,,,2023-07-24 09:04:39,2023-07-24 09:04:40,0.626s,PASSED
+delay(1),Chrome 114.0.0.0,,,2023-07-24 09:04:40,2023-07-24 09:04:41,1.047s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/input_Sign-in continue session_Input_Password_1""), ""P@ssw0rd123"")",Chrome 114.0.0.0,,,2023-07-24 09:04:41,2023-07-24 09:04:42,1.030s,PASSED
+"click(findTestObject(""Object Repository/Page_Login/button_Login""))",Chrome 114.0.0.0,,,2023-07-24 09:04:42,2023-07-24 09:04:43,0.525s,PASSED
+"click(findTestObject(""Object Repository/Page_Home Page/i_Series Number_icon fa fa-th fa-2x""))",Chrome 114.0.0.0,,,2023-07-24 09:04:43,2023-07-24 09:04:46,3.367s,PASSED
+"click(findTestObject(""Object Repository/Page_Home Page/span_Logout""))",Chrome 114.0.0.0,,,2023-07-24 09:04:46,2023-07-24 09:05:16,30.283s,PASSED
+"click(findTestObject(""Object Repository/Page_Home Page/button_Logout""))",Chrome 114.0.0.0,,,2023-07-24 09:05:16,2023-07-24 09:05:46,30.261s,PASSED
+closeBrowser(),Chrome 114.0.0.0,,,2023-07-24 09:05:46,2023-07-24 09:05:47,0.757s,PASSED

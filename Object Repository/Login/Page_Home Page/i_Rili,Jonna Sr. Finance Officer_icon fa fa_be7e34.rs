@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Rili,Jonna Sr. Finance Officer_icon fa fa_be7e34</name>
+   <tag></tag>
+   <elementGuidId>f7cb733d-da2d-4bb5-90d0-33cf77548f8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b1-b2-$b1']/div/div[2]/div[3]/div/div/i[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.fa.fa-angle-down.fa-2x.ThemeGrid_MarginGutter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>61f3b8bf-eefa-4939-a2fe-405fc216b25c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-angle-down fa-2x ThemeGrid_MarginGutter</value>
+      <webElementGuid>703e3374-957e-4546-a47e-eff63017844d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b1-b2-$b1&quot;)/div[@class=&quot;user-info&quot;]/div[@class=&quot;margin-left-s ThemeGrid_Margin4First&quot;]/div[@class=&quot;popover custom-popover&quot;]/div[@class=&quot;popover-top&quot;]/div[1]/i[@class=&quot;icon fa fa-angle-down fa-2x ThemeGrid_MarginGutter&quot;]</value>
+      <webElementGuid>efa51bd2-29c9-4f3c-88a8-23b0b0b2ba77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b1-b2-$b1']/div/div[2]/div[3]/div/div/i[2]</value>
+      <webElementGuid>179d773d-84ce-4f21-8f88-d79935198616</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i[2]</value>
+      <webElementGuid>44107716-0388-4cef-bbaa-a3ae76c01b5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

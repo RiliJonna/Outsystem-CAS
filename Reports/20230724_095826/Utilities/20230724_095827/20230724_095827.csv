@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Utilities,Chrome 114.0.0.0,,,2023-07-24 09:58:29,2023-07-24 09:59:28,59.611s,FAILED
+,,,,,,,
+Test Cases/tetsinglogin,Chrome 114.0.0.0,,,2023-07-24 09:59:25,2023-07-24 09:59:28,3.505s,FAILED
+"openBrowser("""")",Chrome 114.0.0.0,,,2023-07-24 09:59:25,2023-07-24 09:59:27,2.079s,PASSED
+"navigateToUrl(""https://cmiti-tst.outsystemsenterprise.com/AccountingSystem/Login"")",Chrome 114.0.0.0,,,2023-07-24 09:59:27,2023-07-24 09:59:28,0.711s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login/input_Sign-in continue session_Input_Username""), ""Jonna Rili"")",Chrome 114.0.0.0,,,2023-07-24 09:59:28,2023-07-24 09:59:28,0.692s,FAILED
