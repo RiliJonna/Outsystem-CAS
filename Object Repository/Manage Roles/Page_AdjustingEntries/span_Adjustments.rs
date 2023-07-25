@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Adjustments</name>
+   <tag></tag>
+   <elementGuidId>7248187f-5666-488c-bd91-83b5f8a12b33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b2-b5-Menu']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b2-b5-Menu > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7f3f1f8d-d163-4801-bba1-b71fb3a8a925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Adjustments</value>
+      <webElementGuid>752be4be-f436-41f1-a896-da0add0f581b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b2-b5-Menu&quot;)/span[1]</value>
+      <webElementGuid>7953e389-0e96-4452-998d-1c6c9c8e841b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b2-b5-Menu']/span</value>
+      <webElementGuid>8a390153-0187-4a8a-b4a3-1e24966c75bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Details'])[1]/following::span[1]</value>
+      <webElementGuid>1f57edb6-b733-4be8-b0da-27eed81c08a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manual Entries'])[1]/following::span[2]</value>
+      <webElementGuid>5ed7d5a3-64be-4d96-8cfa-961d40d14a35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adjustment Entries'])[1]/preceding::span[1]</value>
+      <webElementGuid>fa7d2b45-ec6c-442a-ad8f-ac3b5d592876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adjustment Details'])[1]/preceding::span[2]</value>
+      <webElementGuid>25d904ff-43fe-4390-9b07-67f3cdee4dcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Adjustments']/parent::*</value>
+      <webElementGuid>607ac739-4316-4614-b769-f2dd4782e40c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/span</value>
+      <webElementGuid>902a7502-054a-4e80-bb3a-83c1b1b2b653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Adjustments' or . = ' Adjustments')]</value>
+      <webElementGuid>7c9a23af-571d-43b7-9533-02e18163bd09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="CAS Oustsystem" time="36.009" tests="3" failures="0" errors="0">
+   <testsuite name="CAS Oustsystem" tests="3" failures="0" errors="0" time="36.009" skipped="0" timestamp="2023-07-25 15:54:25" hostname="j.rili - cmit-jrili.cmit.cardmri.local" id="Test Suites/CAS Oustsystem">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\j.rili\\Katalon Studio\\CAS_NGO\\CAS-NGO\\CAS-NGO\\CAS-NGO\\CAS-NGO\\CAS-NGO\\OSSAS-KATALON\\Outsystem-CAS\\Reports\\20230725_155423\\CAS Oustsystem\\20230725_155423"/>
+         <property name="logFiles" value="C:\\Users\\j.rili\\Katalon Studio\\CAS_NGO\\CAS-NGO\\CAS-NGO\\CAS-NGO\\CAS-NGO\\CAS-NGO\\OSSAS-KATALON\\Outsystem-CAS\\Reports\\20230725_155423\\CAS Oustsystem\\20230725_155423\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="j.rili - cmit-jrili.cmit.cardmri.local"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 115.0.0.0"/>
+         <property name="hostAddress" value="10.200.54.66"/>
+         <property name="sessionId" value="b7a92a6771add17dacb8753afca03136"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/LoginOutsystem" time="7.209" classname="Test Cases/LoginOutsystem" status="PASSED">
+         <system-out><![CDATA[2023-07-25 15:54:25 - [TEST_CASE][PASSED] - Test Cases/LoginOutsystem: Test Cases/LoginOutsystem
+
+2023-07-25 15:54:26 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-07-25 15:54:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-07-25 15:54:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-07-25 15:54:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-07-25 15:54:28 - [TEST_STEP][PASSED] - navigateToUrl("https://cmiti-tst.outsystemsenterprise.com/AccountingSystem/MainPage"): Navigate to 'https://cmiti-tst.outsystemsenterprise.com/AccountingSystem/MainPage' successfully
+
+2023-07-25 15:54:29 - [MESSAGE][PASSED] - Navigate to 'https://cmiti-tst.outsystemsenterprise.com/AccountingSystem/MainPage' successfully
+
+2023-07-25 15:54:29 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2023-07-25 15:54:29 - [MESSAGE][PASSED] - Current window maximized
+
+2023-07-25 15:54:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Login/Page_Login/input_LOGIN_Input_Username2"), "Jonna Rili"): Text 'Jonna Rili' is set on object 'Object Repository/Login/Page_Login/input_LOGIN_Input_Username2'
+
+2023-07-25 15:54:32 - [MESSAGE][PASSED] - Text 'Jonna Rili' is set on object 'Object Repository/Login/Page_Login/input_LOGIN_Input_Username2'
+
+2023-07-25 15:54:32 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Login/Page_Login/input_LOGIN_Input_Password2"), "iFGeFYmXIrU6ruIopQUS+w=="): Text ****** has been set on object 'Object Repository/Login/Page_Login/input_LOGIN_Input_Password2'
+
+2023-07-25 15:54:32 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login/Page_Login/input_LOGIN_Input_Password2'
+
+2023-07-25 15:54:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Login/Page_Login/button_Login")): Object: 'Object Repository/Login/Page_Login/button_Login' is clicked on
+
+2023-07-25 15:54:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/Page_Login/button_Login' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Manage Roles" time="21.331" classname="Test Cases/Manage Roles" status="PASSED">
+         <system-out><![CDATA[2023-07-25 15:54:33 - [TEST_CASE][PASSED] - Test Cases/Manage Roles: Test Cases/Manage Roles
+
+2023-07-25 15:54:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_Home Page/div_Utilities")): Object: 'Object Repository/Manage Roles/Page_Home Page/div_Utilities' is clicked on
+
+2023-07-25 15:54:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_Home Page/div_Utilities' is clicked on
+
+2023-07-25 15:54:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_Home Page/div_Utilities_1")): Object: 'Object Repository/Manage Roles/Page_Home Page/div_Utilities_1' is clicked on
+
+2023-07-25 15:54:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_Home Page/div_Utilities_1' is clicked on
+
+2023-07-25 15:54:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_Home Page/span_Manage Roles")): Object: 'Object Repository/Manage Roles/Page_Home Page/span_Manage Roles' is clicked on
+
+2023-07-25 15:54:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_Home Page/span_Manage Roles' is clicked on
+
+2023-07-25 15:54:36 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Manage Roles/Page_Manage Roles/select_Please Select PositionGeneral Accoun_7b558e"), "4", true): All options with value '4' are selected in object 'Object Repository/Manage Roles/Page_Manage Roles/select_Please Select PositionGeneral Accoun_7b558e'  using regular expression
+
+2023-07-25 15:54:39 - [MESSAGE][PASSED] - All options with value '4' are selected in object 'Object Repository/Manage Roles/Page_Manage Roles/select_Please Select PositionGeneral Accoun_7b558e'  using regular expression
+
+2023-07-25 15:54:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_Manage Roles/input_Adjustment Enrties_l4-110_0-Checkbox9")): Object: 'Object Repository/Manage Roles/Page_Manage Roles/input_Adjustment Enrties_l4-110_0-Checkbox9' is clicked on
+
+2023-07-25 15:54:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_Manage Roles/input_Adjustment Enrties_l4-110_0-Checkbox9' is clicked on
+
+2023-07-25 15:54:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_Manage Roles/button_Save")): Object: 'Object Repository/Manage Roles/Page_Manage Roles/button_Save' is clicked on
+
+2023-07-25 15:54:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_Manage Roles/button_Save' is clicked on
+
+2023-07-25 15:54:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_Manage Roles/span_Accounts")): Object: 'Object Repository/Manage Roles/Page_Manage Roles/span_Accounts' is clicked on
+
+2023-07-25 15:54:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_Manage Roles/span_Accounts' is clicked on
+
+2023-07-25 15:54:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_Manage Roles/div_Adjustments")): Object: 'Object Repository/Manage Roles/Page_Manage Roles/div_Adjustments' is clicked on
+
+2023-07-25 15:54:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_Manage Roles/div_Adjustments' is clicked on
+
+2023-07-25 15:54:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_Manage Roles/span_Adjustment Entries")): Object: 'Object Repository/Manage Roles/Page_Manage Roles/span_Adjustment Entries' is clicked on
+
+2023-07-25 15:54:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_Manage Roles/span_Adjustment Entries' is clicked on
+
+2023-07-25 15:54:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_AdjustingEntries/button_OK")): Object: 'Object Repository/Manage Roles/Page_AdjustingEntries/button_OK' is clicked on
+
+2023-07-25 15:54:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_AdjustingEntries/button_OK' is clicked on
+
+2023-07-25 15:54:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_AdjustingEntries/div_Accounts")): Object: 'Object Repository/Manage Roles/Page_AdjustingEntries/div_Accounts' is clicked on
+
+2023-07-25 15:54:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_AdjustingEntries/div_Accounts' is clicked on
+
+2023-07-25 15:54:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_AdjustingEntries/span_Adjustments")): Object: 'Object Repository/Manage Roles/Page_AdjustingEntries/span_Adjustments' is clicked on
+
+2023-07-25 15:54:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_AdjustingEntries/span_Adjustments' is clicked on
+
+2023-07-25 15:54:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_AdjustingEntries/span_Adjustment Details")): Object: 'Object Repository/Manage Roles/Page_AdjustingEntries/span_Adjustment Details' is clicked on
+
+2023-07-25 15:54:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_AdjustingEntries/span_Adjustment Details' is clicked on
+
+2023-07-25 15:54:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Accounts")): Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Accounts' is clicked on
+
+2023-07-25 15:54:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Accounts' is clicked on
+
+2023-07-25 15:54:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Accounts")): Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Accounts' is clicked on
+
+2023-07-25 15:54:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Accounts' is clicked on
+
+2023-07-25 15:54:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Report")): Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Report' is clicked on
+
+2023-07-25 15:54:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Report' is clicked on
+
+2023-07-25 15:54:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_AdjustingEntriesDetails/span_Book of Accounts")): Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/span_Book of Accounts' is clicked on
+
+2023-07-25 15:54:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/span_Book of Accounts' is clicked on
+
+2023-07-25 15:54:50 - [TEST_STEP][PASSED] - switchToWindowTitle("AdjustingEntriesDetails"): Switched to window with title: 'AdjustingEntriesDetails'
+
+2023-07-25 15:54:50 - [MESSAGE][PASSED] - Switched to window with title: 'AdjustingEntriesDetails'
+
+2023-07-25 15:54:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_AdjustingEntriesDetails/span_General Ledger")): Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/span_General Ledger' is clicked on
+
+2023-07-25 15:54:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/span_General Ledger' is clicked on
+
+2023-07-25 15:54:51 - [TEST_STEP][PASSED] - switchToWindowTitle("AdjustingEntriesDetails"): Switched to window with title: 'AdjustingEntriesDetails'
+
+2023-07-25 15:54:51 - [MESSAGE][PASSED] - Switched to window with title: 'AdjustingEntriesDetails'
+
+2023-07-25 15:54:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Report_osui-accordion-item__icon osui-a_d9ee91")): Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Report_osui-accordion-item__icon osui-a_d9ee91' is clicked on
+
+2023-07-25 15:54:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Report_osui-accordion-item__icon osui-a_d9ee91' is clicked on
+
+2023-07-25 15:54:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Utilities")): Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Utilities' is clicked on
+
+2023-07-25 15:54:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Utilities' is clicked on
+
+2023-07-25 15:54:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Utilities_1")): Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Utilities_1' is clicked on
+
+2023-07-25 15:54:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Utilities_1' is clicked on
+
+2023-07-25 15:54:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_AdjustingEntriesDetails/span_User Management")): Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/span_User Management' is clicked on
+
+2023-07-25 15:54:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_AdjustingEntriesDetails/span_User Management' is clicked on
+
+2023-07-25 15:54:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Manage Roles/Page_Manage User/div")): Object: 'Object Repository/Manage Roles/Page_Manage User/div' is clicked on
+
+2023-07-25 15:54:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Manage Roles/Page_Manage User/div' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/UserManagement" time="7.209" classname="Test Cases/UserManagement" status="PASSED">
+         <system-out><![CDATA[2023-07-25 15:54:54 - [TEST_CASE][PASSED] - Test Cases/UserManagement: Test Cases/UserManagement
+
+2023-07-25 15:54:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Users Management/New Folder/Page_Home Page/div_Utilities")): Object: 'Object Repository/Users Management/New Folder/Page_Home Page/div_Utilities' is clicked on
+
+2023-07-25 15:54:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Users Management/New Folder/Page_Home Page/div_Utilities' is clicked on
+
+2023-07-25 15:54:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Users Management/New Folder/Page_Home Page/span_Utilities")): Object: 'Object Repository/Users Management/New Folder/Page_Home Page/span_Utilities' is clicked on
+
+2023-07-25 15:54:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Users Management/New Folder/Page_Home Page/span_Utilities' is clicked on
+
+2023-07-25 15:54:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Users Management/New Folder/Page_Home Page/span_User Management")): Object: 'Object Repository/Users Management/New Folder/Page_Home Page/span_User Management' is clicked on
+
+2023-07-25 15:54:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Users Management/New Folder/Page_Home Page/span_User Management' is clicked on
+
+2023-07-25 15:54:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Users Management/New Folder/Page_Manage User/i_Action_icon fa fa-plus-square fa-2x")): Object: 'Object Repository/Users Management/New Folder/Page_Manage User/i_Action_icon fa fa-plus-square fa-2x' is clicked on
+
+2023-07-25 15:54:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Users Management/New Folder/Page_Manage User/i_Action_icon fa fa-plus-square fa-2x' is clicked on
+
+2023-07-25 15:54:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Users Management/New Folder/Page_Manage User/i_Force Logout_icon fa fa-times fa-2x")): Object: 'Object Repository/Users Management/New Folder/Page_Manage User/i_Force Logout_icon fa fa-times fa-2x' is clicked on
+
+2023-07-25 15:54:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Users Management/New Folder/Page_Manage User/i_Force Logout_icon fa fa-times fa-2x' is clicked on
+
+2023-07-25 15:54:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Users Management/New Folder/Page_Manage User/span_Add User")): Object: 'Object Repository/Users Management/New Folder/Page_Manage User/span_Add User' is clicked on
+
+2023-07-25 15:54:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Users Management/New Folder/Page_Manage User/span_Add User' is clicked on
+
+2023-07-25 15:54:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Users Management/New Folder/Page_Manage User/i_User Management Form_icon fa fa-times-cir_4adfb2")): Object: 'Object Repository/Users Management/New Folder/Page_Manage User/i_User Management Form_icon fa fa-times-cir_4adfb2' is clicked on
+
+2023-07-25 15:54:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Users Management/New Folder/Page_Manage User/i_User Management Form_icon fa fa-times-cir_4adfb2' is clicked on
+
+2023-07-25 15:54:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Users Management/New Folder/Page_Manage User/div")): Object: 'Object Repository/Users Management/New Folder/Page_Manage User/div' is clicked on
+
+2023-07-25 15:54:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Users Management/New Folder/Page_Manage User/div' is clicked on
+
+2023-07-25 15:54:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Users Management/New Folder/Page_Manage User/span_Logout")): Object: 'Object Repository/Users Management/New Folder/Page_Manage User/span_Logout' is clicked on
+
+2023-07-25 15:55:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Users Management/New Folder/Page_Manage User/span_Logout' is clicked on
+
+2023-07-25 15:55:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Users Management/New Folder/Page_Manage User/button_Logout")): Object: 'Object Repository/Users Management/New Folder/Page_Manage User/button_Logout' is clicked on
+
+2023-07-25 15:55:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Users Management/New Folder/Page_Manage User/button_Logout' is clicked on
+
+2023-07-25 15:55:00 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-07-25 15:55:01 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-07-25 15:54:25 - [TEST_SUITE][PASSED] - CAS Oustsystem: Test Cases/UserManagement]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
