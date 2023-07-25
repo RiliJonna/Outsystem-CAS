@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Rili,Jonna Administrator_icon fa fa-user fa-2x</name>
+   <tag></tag>
+   <elementGuidId>399cbd78-9a3d-4861-9511-bfa0f8118f41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b1-b2-$b1']/div/div[2]/div[3]/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.fa.fa-user.fa-2x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ce8ac1eb-eae8-4627-b4fd-7049544b6867</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-user fa-2x</value>
+      <webElementGuid>07251708-0682-4432-8447-c69a84618551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b1-b2-$b1&quot;)/div[@class=&quot;user-info&quot;]/div[@class=&quot;margin-left-s ThemeGrid_Margin4First&quot;]/div[@class=&quot;popover custom-popover&quot;]/div[@class=&quot;popover-top&quot;]/div[1]/i[@class=&quot;icon fa fa-user fa-2x&quot;]</value>
+      <webElementGuid>11497ad8-95d0-4691-98df-976ab89f7e3c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b1-b2-$b1']/div/div[2]/div[3]/div/div/i</value>
+      <webElementGuid>41503f89-7520-43ee-ba53-2bb4a02fc53b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/i</value>
+      <webElementGuid>813fe50f-e2eb-444e-932b-0ad50536c4f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

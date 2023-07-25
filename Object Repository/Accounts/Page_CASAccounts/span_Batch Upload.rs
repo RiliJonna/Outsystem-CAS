@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Batch Upload</name>
+   <tag></tag>
+   <elementGuidId>1adbf41b-a2eb-4499-b72f-12b88feeb5ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='b2-Batchupload4']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b2-Batchupload4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3e3b299e-9c76-4575-99d9-72cf8a3a7fd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b2-Batchupload4</value>
+      <webElementGuid>b7a2e3dc-8b97-40c3-ba76-6b2afd087564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Batch Upload</value>
+      <webElementGuid>94b5adca-2b92-4784-a35f-a928a34e23b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b2-Batchupload4&quot;)</value>
+      <webElementGuid>0ba88d04-3cb1-471b-803d-d30f3c0ed3eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='b2-Batchupload4']</value>
+      <webElementGuid>31d37a7b-2e6a-4fb9-8012-3edf2ba806e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b2-b7-Menu']/span</value>
+      <webElementGuid>24bf26c4-3bcb-44df-96ea-c8d6fec5a135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CAS Accounts'])[1]/following::span[1]</value>
+      <webElementGuid>f832c2e4-83c5-4439-93b2-331c1ecebda6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adjustment Details'])[1]/following::span[2]</value>
+      <webElementGuid>8a2bfcfa-cf7d-4b9d-98d7-fa720e86fb83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manual Adjustment EntryBatch Upload'])[1]/preceding::span[1]</value>
+      <webElementGuid>31935a02-bd02-44eb-8890-741f684146bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/preceding::span[2]</value>
+      <webElementGuid>f8357b64-7550-487a-b4a4-a19107c0cd24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Batch Upload']/parent::*</value>
+      <webElementGuid>be77375b-b21f-4c76-b073-2e9dd1bba2ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/span</value>
+      <webElementGuid>42423ce8-5a4b-48f5-a17b-2619b77cf614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'b2-Batchupload4' and (text() = 'Batch Upload' or . = 'Batch Upload')]</value>
+      <webElementGuid>2e42fe88-54a0-4dd5-839e-63a6ce8e4358</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

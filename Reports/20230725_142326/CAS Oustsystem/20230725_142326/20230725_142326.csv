@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+CAS Oustsystem,Chrome 115.0.0.0,,,2023-07-25 14:23:28,2023-07-25 14:23:45,16.910s,PASSED
+,,,,,,,
+Test Cases/LoginOutsystem,Chrome 115.0.0.0,,,2023-07-25 14:23:28,2023-07-25 14:23:36,7.410s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-07-25 14:23:29,2023-07-25 14:23:31,2.470s,PASSED
+"navigateToUrl(""https://cmiti-tst.outsystemsenterprise.com/AccountingSystem/MainPage"")",Chrome 115.0.0.0,,,2023-07-25 14:23:31,2023-07-25 14:23:32,0.867s,PASSED
+maximizeWindow(),Chrome 115.0.0.0,,,2023-07-25 14:23:32,2023-07-25 14:23:32,0.164s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_Login/input_LOGIN_Input_Username2""), ""Jonna Rili"")",Chrome 115.0.0.0,,,2023-07-25 14:23:32,2023-07-25 14:23:35,2.387s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Page_Login/input_LOGIN_Input_Password2""), ""iFGeFYmXIrU6ruIopQUS+w=="")",Chrome 115.0.0.0,,,2023-07-25 14:23:35,2023-07-25 14:23:35,0.650s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_Login/button_Login""))",Chrome 115.0.0.0,,,2023-07-25 14:23:35,2023-07-25 14:23:36,0.542s,PASSED
+,,,,,,,
+Test Cases/UserManagement,Chrome 115.0.0.0,,,2023-07-25 14:23:36,2023-07-25 14:23:45,9.240s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Home Page/div_Utilities""))",Chrome 115.0.0.0,,,2023-07-25 14:23:36,2023-07-25 14:23:39,2.497s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Home Page/span_Utilities""))",Chrome 115.0.0.0,,,2023-07-25 14:23:39,2023-07-25 14:23:39,0.405s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Home Page/span_User Management""))",Chrome 115.0.0.0,,,2023-07-25 14:23:39,2023-07-25 14:23:40,0.417s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Manage User/i_Action_icon fa fa-plus-square fa-2x""))",Chrome 115.0.0.0,,,2023-07-25 14:23:40,2023-07-25 14:23:41,1.315s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Manage User/i_Force Logout_icon fa fa-times fa-2x""))",Chrome 115.0.0.0,,,2023-07-25 14:23:41,2023-07-25 14:23:41,0.629s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Manage User/span_Add User""))",Chrome 115.0.0.0,,,2023-07-25 14:23:41,2023-07-25 14:23:42,0.567s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Manage User/i_User Management Form_icon fa fa-times-cir_4adfb2""))",Chrome 115.0.0.0,,,2023-07-25 14:23:42,2023-07-25 14:23:43,0.633s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Manage User/div""))",Chrome 115.0.0.0,,,2023-07-25 14:23:43,2023-07-25 14:23:43,0.574s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Manage User/span_Logout""))",Chrome 115.0.0.0,,,2023-07-25 14:23:43,2023-07-25 14:23:44,0.541s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Manage User/button_Logout""))",Chrome 115.0.0.0,,,2023-07-25 14:23:44,2023-07-25 14:23:44,0.547s,PASSED
+closeBrowser(),Chrome 115.0.0.0,,,2023-07-25 14:23:44,2023-07-25 14:23:45,0.726s,PASSED

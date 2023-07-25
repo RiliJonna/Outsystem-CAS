@@ -17,15 +17,26 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://cmiti-tst.outsystemsenterprise.com/AccountingSystem/MainPage')
+WebUI.click(findTestObject('Object Repository/Users Management/New Folder/Page_Home Page/div_Utilities'))
 
-WebUI.maximizeWindow()
+WebUI.click(findTestObject('Object Repository/Users Management/New Folder/Page_Home Page/span_Utilities'))
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_Login/input_LOGIN_Input_Username2'), 'Jonna Rili')
+WebUI.click(findTestObject('Object Repository/Users Management/New Folder/Page_Home Page/span_User Management'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_Login/input_LOGIN_Input_Password2'), 'iFGeFYmXIrU6ruIopQUS+w==')
+WebUI.click(findTestObject('Object Repository/Users Management/New Folder/Page_Manage User/i_Action_icon fa fa-plus-square fa-2x'))
 
-WebUI.click(findTestObject('Object Repository/Login/Page_Login/button_Login'))
+WebUI.click(findTestObject('Object Repository/Users Management/New Folder/Page_Manage User/i_Force Logout_icon fa fa-times fa-2x'))
+
+WebUI.click(findTestObject('Object Repository/Users Management/New Folder/Page_Manage User/span_Add User'))
+
+WebUI.click(findTestObject('Object Repository/Users Management/New Folder/Page_Manage User/i_User Management Form_icon fa fa-times-cir_4adfb2'))
+
+WebUI.click(findTestObject('Object Repository/Users Management/New Folder/Page_Manage User/div'))
+
+WebUI.click(findTestObject('Object Repository/Users Management/New Folder/Page_Manage User/span_Logout'))
+
+WebUI.click(findTestObject('Object Repository/Users Management/New Folder/Page_Manage User/button_Logout'))
+
+WebUI.closeBrowser()
 

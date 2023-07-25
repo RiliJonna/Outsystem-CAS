@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Action_icon fa fa-plus-square fa-2x</name>
+   <tag></tag>
+   <elementGuidId>77c23907-920e-465c-aebf-f9c0a3483c6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='TableWidgetId2']/tbody/tr/td/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.fa.fa-plus-square.fa-2x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>588051dd-6363-4753-8e8a-c3f2e3c02c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-plus-square fa-2x</value>
+      <webElementGuid>cc21b662-91d2-4a02-a27e-8784b826ba1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TableWidgetId2&quot;)/tbody[1]/tr[@class=&quot;table-row&quot;]/td[1]/a[1]/i[@class=&quot;icon fa fa-plus-square fa-2x&quot;]</value>
+      <webElementGuid>b3870079-c645-45e9-b070-76d812f092d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='TableWidgetId2']/tbody/tr/td/a/i</value>
+      <webElementGuid>a4fad146-eb48-4ebf-b937-fe4f72e57e2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a/i</value>
+      <webElementGuid>38882ee8-e909-48d6-bffb-e72c2522cd0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

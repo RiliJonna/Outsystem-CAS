@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Manual Adjustment EntryBatch Upload</name>
+   <tag></tag>
+   <elementGuidId>6c2ae7d2-b343-4c8f-ab4a-e76c01eb8eee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='b2-ManuaAdjustment2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b2-ManuaAdjustment2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4c05dba0-1a85-4087-aca4-5383b0250a31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b2-ManuaAdjustment2</value>
+      <webElementGuid>b2a11431-2e7e-4acf-a038-2a651a41a52f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manual Adjustment EntryBatch Upload</value>
+      <webElementGuid>53520093-271f-4573-9b10-21550904fe9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b2-ManuaAdjustment2&quot;)</value>
+      <webElementGuid>f689059e-9905-4bb9-a6c5-f1065d037f24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='b2-ManuaAdjustment2']</value>
+      <webElementGuid>68c16a36-7a71-4c8d-85cc-3fe8a210be44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='b2-ManualAdjustment2']/span</value>
+      <webElementGuid>2d7767cb-3464-4e4f-a3ab-bc1359de5cc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batch Upload'])[1]/following::span[1]</value>
+      <webElementGuid>5c86b578-d5b0-448c-b759-8ffb2d62a0f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CAS Accounts'])[1]/following::span[2]</value>
+      <webElementGuid>08214a58-17bc-423d-9cf1-68505ef51f79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/preceding::span[1]</value>
+      <webElementGuid>98aae25b-df5f-4a9b-8bdb-42ea0e563a28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book of Accounts'])[1]/preceding::span[2]</value>
+      <webElementGuid>9722554c-0bd7-45a5-a5e0-00debfdbea45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manual Adjustment Entry']/parent::*</value>
+      <webElementGuid>106c10a8-49fa-45f7-b3e6-abafa7445dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/a/span</value>
+      <webElementGuid>b513b43b-3954-4f2f-9ba4-8ebcee7db2f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'b2-ManuaAdjustment2' and (text() = 'Manual Adjustment EntryBatch Upload' or . = 'Manual Adjustment EntryBatch Upload')]</value>
+      <webElementGuid>7d5e7a3d-e150-4339-b2ae-34498dbc8698</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

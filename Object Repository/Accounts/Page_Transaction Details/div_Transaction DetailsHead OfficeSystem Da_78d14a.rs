@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Transaction DetailsHead OfficeSystem Da_78d14a</name>
+   <tag></tag>
+   <elementGuidId>e98f07b9-f479-4508-bed5-ad16340b6418</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b1-MainContentWrapper']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.content-top.display-flex.align-items-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>69e79cb5-baf4-45c6-bedc-4a007ec8f861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content-top display-flex align-items-center</value>
+      <webElementGuid>bc3435a5-bd36-47a3-aa17-e5fdaa862aa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaction DetailsHead OfficeSystem Date: 5 Jun 2023Status:Open</value>
+      <webElementGuid>f0f6bf94-9499-4046-9245-13e0fbe1e851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b1-MainContentWrapper&quot;)/div[@class=&quot;content-top display-flex align-items-center&quot;]</value>
+      <webElementGuid>483c3a04-795f-4bb1-b0b6-c752d3acde74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b1-MainContentWrapper']/div[2]</value>
+      <webElementGuid>76cafd47-302e-4ad0-b593-82c813d437cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome:'])[1]/following::div[7]</value>
+      <webElementGuid>af223093-b90f-4046-a2a1-44de2da624a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]</value>
+      <webElementGuid>35352c98-a495-4cda-a7c5-e287c566d6dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Transaction DetailsHead OfficeSystem Date: 5 Jun 2023Status:Open' or . = 'Transaction DetailsHead OfficeSystem Date: 5 Jun 2023Status:Open')]</value>
+      <webElementGuid>11ff683b-339a-4a70-a152-02646d31e63b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

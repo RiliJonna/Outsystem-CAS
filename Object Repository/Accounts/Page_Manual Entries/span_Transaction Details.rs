@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Transaction Details</name>
+   <tag></tag>
+   <elementGuidId>27f9f7e4-69ab-442c-94c9-56f0b43bce3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='b2-TransactionDetails4']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b2-TransactionDetails4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7aced3d2-fe29-457f-84b6-0a07837ee578</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>b2-TransactionDetails4</value>
+      <webElementGuid>be658b4b-951d-48b0-aa17-f9c4375bd6f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaction Details</value>
+      <webElementGuid>f24528b6-f7a0-4d10-8038-2ce9d8b86441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b2-TransactionDetails4&quot;)</value>
+      <webElementGuid>25b848d8-174d-402d-8c6c-c35a53615795</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='b2-TransactionDetails4']</value>
+      <webElementGuid>e9f0ea6a-85e0-41be-a7cd-64b032fdb634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='b2-TransactionDetails3']/span</value>
+      <webElementGuid>315939de-92d9-4a0f-a014-f99bfb6e3431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manual Entries'])[2]/following::span[1]</value>
+      <webElementGuid>a146b8a1-e6be-465a-93e9-5fe30cfe0a0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Journal'])[1]/following::span[2]</value>
+      <webElementGuid>80948ae4-a844-4faa-bbc2-f53f934c9c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adjustments'])[1]/preceding::span[1]</value>
+      <webElementGuid>3e1fc98e-509f-4663-a6da-5b5cf2eac80f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adjustment Entries'])[1]/preceding::span[2]</value>
+      <webElementGuid>a2a26d91-b953-462a-82e7-3f9c6f380210</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transaction Details']/parent::*</value>
+      <webElementGuid>6b0e443f-44b4-4b27-ac41-6a5ba359f28c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/span</value>
+      <webElementGuid>f2bd573a-83e3-4d21-b5ec-da1b68c1518b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'b2-TransactionDetails4' and (text() = 'Transaction Details' or . = 'Transaction Details')]</value>
+      <webElementGuid>e933a141-f885-435c-a928-c98de01d24bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
