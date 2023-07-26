@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Update Cut-Off Date_icon fa fa-times fa-2_fed3b3</name>
+   <tag></tag>
+   <elementGuidId>61451bbc-375d-425b-9d3b-0ae98fc58648</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b17-UpdateCutOff2']/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.fa.fa-times.fa-2x.ThemeGrid_MarginGutter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f0b1f541-c099-4c06-91f7-77cd464b0259</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-times fa-2x ThemeGrid_MarginGutter</value>
+      <webElementGuid>53878d26-0e9e-4564-ab34-d27110cf9d66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b17-UpdateCutOff2&quot;)/div[@class=&quot;popup-content&quot;]/div[1]/i[@class=&quot;icon fa fa-times fa-2x ThemeGrid_MarginGutter&quot;]</value>
+      <webElementGuid>eea5ac44-7a0f-4058-adb5-8f9a2d300d23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b17-UpdateCutOff2']/div/div/i</value>
+      <webElementGuid>89298937-733d-442b-82c5-da18a59ac8aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/i</value>
+      <webElementGuid>12738eb3-8fa8-4164-9497-714f4227ccad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

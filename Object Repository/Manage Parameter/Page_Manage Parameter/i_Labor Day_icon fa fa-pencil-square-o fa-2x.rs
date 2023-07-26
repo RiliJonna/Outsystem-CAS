@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Labor Day_icon fa fa-pencil-square-o fa-2x</name>
+   <tag></tag>
+   <elementGuidId>84939b61-91b0-4482-83d8-75c5e72a4de0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b15-b3-Content']/table/tbody/tr/td[6]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.fa.fa-pencil-square-o.fa-2x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f0bc5f62-96a9-40f5-b7e9-8884244db1bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-pencil-square-o fa-2x</value>
+      <webElementGuid>5df48d3d-f8b7-4d57-bed9-0309f6226b13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b15-b3-Content&quot;)/table[@class=&quot;table&quot;]/tbody[1]/tr[@class=&quot;table-row&quot;]/td[6]/a[1]/i[@class=&quot;icon fa fa-pencil-square-o fa-2x&quot;]</value>
+      <webElementGuid>b6f5ebf4-cafb-40a1-aa85-8c32b197ade9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b15-b3-Content']/table/tbody/tr/td[6]/a/i</value>
+      <webElementGuid>7be9569b-dac4-4acb-a1d6-34f67ab7ccea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/a/i</value>
+      <webElementGuid>e680aa0d-d5aa-4a5f-9907-f8905e68c49e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

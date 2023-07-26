@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Calendar event update date_icon fa fa-tim_ee8f7f</name>
+   <tag></tag>
+   <elementGuidId>6e6148dd-3554-4508-8aad-bff18a1f7153</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b8-Column2']/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.fa.fa-times.fa-2x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d82298d3-3f36-4c1a-8f25-ff52f66326f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-times fa-2x</value>
+      <webElementGuid>18cbe2d0-6cd4-499e-a80b-c7d6e5c832f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b8-Column2&quot;)/div[1]/a[1]/i[@class=&quot;icon fa fa-times fa-2x&quot;]</value>
+      <webElementGuid>2b878fad-ad6d-4fee-9532-ae4302f94e28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b8-Column2']/div/a/i</value>
+      <webElementGuid>1a16707f-d3b4-4d63-87dc-2f1b543cf1b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/a/i</value>
+      <webElementGuid>43149037-6800-469a-924b-746b9bacc93e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

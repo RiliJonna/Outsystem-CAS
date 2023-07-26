@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Barangay</name>
+   <tag></tag>
+   <elementGuidId>d93d7d9a-83aa-4d80-9837-bd58369ef394</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b12-Title']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#b12-Title > div > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3a98b3c7-ebc8-47ef-af3a-8986b4bf8aab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Barangay</value>
+      <webElementGuid>8f6c1517-7da0-4f73-8282-18db824f1a17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b12-Title&quot;)/div[1]/span[1]</value>
+      <webElementGuid>5a66d8fb-12d0-44ee-927b-37dd07eac558</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b12-Title']/div/span</value>
+      <webElementGuid>e6cba1db-0f14-4b20-91cd-a6468d0ee2a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Position'])[1]/following::span[1]</value>
+      <webElementGuid>adf66fec-d955-4619-9820-9f0943046c9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference Type'])[1]/following::span[2]</value>
+      <webElementGuid>e9a58576-f7ec-41be-8bd0-43968cc2e2f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City'])[1]/preceding::span[1]</value>
+      <webElementGuid>a27b74c4-9b2b-4103-a091-3fe4a43d8b7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search input'])[1]/preceding::span[2]</value>
+      <webElementGuid>ac79b02e-3892-4d77-88f1-d53503439ed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Barangay']/parent::*</value>
+      <webElementGuid>99c95fde-a408-4cf4-a01d-5b910b1e3784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/button/div/div/span</value>
+      <webElementGuid>22eae313-cfdd-4eeb-8a16-81b3c569944a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Barangay' or . = 'Barangay')]</value>
+      <webElementGuid>a6f6dca6-d335-4d43-854e-510b0f0c325b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

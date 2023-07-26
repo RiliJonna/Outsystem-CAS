@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Create City_icon fa fa-times-circle fa-2x</name>
+   <tag></tag>
+   <elementGuidId>a0fe28d3-bbc5-4e82-8647-6dfd7a2daebc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b32-Column2']/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.fa.fa-times-circle.fa-2x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>12a86c3e-3c2f-408f-b55f-ae60ab4175c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-times-circle fa-2x</value>
+      <webElementGuid>8def1297-eded-4b93-9507-dc4353259840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b32-Column2&quot;)/div[1]/a[1]/i[@class=&quot;icon fa fa-times-circle fa-2x&quot;]</value>
+      <webElementGuid>a7feb9f9-e0da-4d99-b67c-885d6df50c33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b32-Column2']/div/a/i</value>
+      <webElementGuid>281bf87d-96cc-4ad6-a076-a07f219b4c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/a/i</value>
+      <webElementGuid>f61580c0-845d-4e50-a1bd-200a7590178a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

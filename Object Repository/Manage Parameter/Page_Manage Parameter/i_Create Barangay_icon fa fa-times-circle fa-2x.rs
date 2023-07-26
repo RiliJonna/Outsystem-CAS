@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Create Barangay_icon fa fa-times-circle fa-2x</name>
+   <tag></tag>
+   <elementGuidId>8fe0fe11-9e44-42cd-906d-a4de78209520</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='CloseModalcreateBarangay']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.fa.fa-times-circle.fa-2x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>12ff547a-a13c-4f1e-aa91-d153d482378b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-times-circle fa-2x</value>
+      <webElementGuid>392930d4-a0e7-4471-980a-a6ab0353cad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CloseModalcreateBarangay&quot;)/i[@class=&quot;icon fa fa-times-circle fa-2x&quot;]</value>
+      <webElementGuid>091579bb-d9f7-49d3-b083-f232921db165</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='CloseModalcreateBarangay']/i</value>
+      <webElementGuid>ee614ee1-58b5-4896-930e-cfc08e04d141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/a/i</value>
+      <webElementGuid>fcb979a2-c214-4d8a-b532-d26bf8cd9ca9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
