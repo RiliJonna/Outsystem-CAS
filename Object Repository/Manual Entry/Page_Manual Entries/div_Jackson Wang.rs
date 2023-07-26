@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jackson Wang</name>
+   <tag></tag>
+   <elementGuidId>f9db1099-2475-463b-bb57-415e7ab1edf5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-AutocompleteListWidget']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.autocomplete-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f09e29e4-bd4a-4386-a47f-81914973bf9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>autocomplete-item</value>
+      <webElementGuid>444b8923-d381-4c8a-8781-da94841eab99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jackson Wang</value>
+      <webElementGuid>d3976a25-1bec-44e6-acd7-ab7433b64d73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-AutocompleteListWidget&quot;)/div[@class=&quot;autocomplete-item&quot;]</value>
+      <webElementGuid>6bea6bf2-a9dd-4234-af02-325fa760d273</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-AutocompleteListWidget']/div</value>
+      <webElementGuid>4469fb2e-f789-4c88-af2a-5206eb2f2b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payee'])[1]/following::div[5]</value>
+      <webElementGuid>ba9c3c93-b7a1-4a72-aad1-cc03391b03c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Date'])[1]/following::div[10]</value>
+      <webElementGuid>700578d5-2620-4a80-a510-dc652780762f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/preceding::div[2]</value>
+      <webElementGuid>672cdb94-f681-4da6-8408-4e125f436bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/div/div[2]/div/div/div/div</value>
+      <webElementGuid>b246d61b-22f9-4e3b-a5f0-a25b1888194f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Jackson Wang' or . = 'Jackson Wang')]</value>
+      <webElementGuid>cc67f368-27cd-4f9d-883b-48f025efd1d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

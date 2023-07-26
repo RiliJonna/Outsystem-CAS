@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Accounts_osui-accordion-item__icon osui_cac4c0</name>
+   <tag></tag>
+   <elementGuidId>b52cba2e-cbe1-4c18-9b42-b3b809c8a134</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b2-b3-TitleWrapper']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.osui-accordion-item__icon.osui-accordion-item__icon--caret</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0977df80-6ed0-4bed-9a2a-48fb30f78d41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>osui-accordion-item__icon osui-accordion-item__icon--caret</value>
+      <webElementGuid>2fc47183-b9c8-4a0d-8aa9-e363207244d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a757ca5a-ca8b-45f0-b5eb-0d8a023a9f66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b2-b3-TitleWrapper&quot;)/div[@class=&quot;osui-accordion-item__icon osui-accordion-item__icon--caret&quot;]</value>
+      <webElementGuid>5dcfa750-13c3-44fa-a490-3e9f29f54b7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b2-b3-TitleWrapper']/div[2]</value>
+      <webElementGuid>42fb1f66-6739-4626-9176-43df315823f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>efeb44fe-9ba4-4a57-9228-4ea7547a012e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

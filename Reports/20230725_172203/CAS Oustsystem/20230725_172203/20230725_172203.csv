@@ -1,0 +1,49 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+CAS Oustsystem,Chrome 115.0.0.0,,,2023-07-25 17:22:08,2023-07-25 17:22:52,44.473s,PASSED
+,,,,,,,
+Test Cases/LoginOutsystem,Chrome 115.0.0.0,,,2023-07-25 17:22:08,2023-07-25 17:22:18,9.611s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-07-25 17:22:09,2023-07-25 17:22:12,3.755s,PASSED
+"navigateToUrl(""https://cmiti-tst.outsystemsenterprise.com/AccountingSystem/MainPage"")",Chrome 115.0.0.0,,,2023-07-25 17:22:12,2023-07-25 17:22:13,0.787s,PASSED
+maximizeWindow(),Chrome 115.0.0.0,,,2023-07-25 17:22:13,2023-07-25 17:22:13,0.213s,PASSED
+"setText(findTestObject(""Object Repository/Login/Page_Login/input_LOGIN_Input_Username2""), ""Jonna Rili"")",Chrome 115.0.0.0,,,2023-07-25 17:22:13,2023-07-25 17:22:16,2.618s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/Page_Login/input_LOGIN_Input_Password2""), ""iFGeFYmXIrU6ruIopQUS+w=="")",Chrome 115.0.0.0,,,2023-07-25 17:22:16,2023-07-25 17:22:17,0.950s,PASSED
+"click(findTestObject(""Object Repository/Login/Page_Login/button_Login""))",Chrome 115.0.0.0,,,2023-07-25 17:22:17,2023-07-25 17:22:18,0.764s,PASSED
+,,,,,,,
+Test Cases/Manage Roles,Chrome 115.0.0.0,,,2023-07-25 17:22:18,2023-07-25 17:22:43,24.822s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_Home Page/div_Utilities""))",Chrome 115.0.0.0,,,2023-07-25 17:22:19,2023-07-25 17:22:20,1.473s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_Home Page/div_Utilities_1""))",Chrome 115.0.0.0,,,2023-07-25 17:22:20,2023-07-25 17:22:21,0.644s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_Home Page/span_Manage Roles""))",Chrome 115.0.0.0,,,2023-07-25 17:22:21,2023-07-25 17:22:22,0.721s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Manage Roles/Page_Manage Roles/select_Please Select PositionGeneral Accoun_7b558e""), ""4"", true)",Chrome 115.0.0.0,,,2023-07-25 17:22:22,2023-07-25 17:22:25,3.293s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_Manage Roles/input_Adjustment Enrties_l4-110_0-Checkbox9""))",Chrome 115.0.0.0,,,2023-07-25 17:22:25,2023-07-25 17:22:27,1.509s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_Manage Roles/button_Save""))",Chrome 115.0.0.0,,,2023-07-25 17:22:27,2023-07-25 17:22:27,0.842s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_Manage Roles/span_Accounts""))",Chrome 115.0.0.0,,,2023-07-25 17:22:27,2023-07-25 17:22:29,2.019s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_Manage Roles/div_Adjustments""))",Chrome 115.0.0.0,,,2023-07-25 17:22:29,2023-07-25 17:22:30,0.673s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_Manage Roles/span_Adjustment Entries""))",Chrome 115.0.0.0,,,2023-07-25 17:22:30,2023-07-25 17:22:31,0.710s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_AdjustingEntries/button_OK""))",Chrome 115.0.0.0,,,2023-07-25 17:22:31,2023-07-25 17:22:33,1.787s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_AdjustingEntries/div_Accounts""))",Chrome 115.0.0.0,,,2023-07-25 17:22:33,2023-07-25 17:22:33,0.827s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_AdjustingEntries/span_Adjustments""))",Chrome 115.0.0.0,,,2023-07-25 17:22:33,2023-07-25 17:22:34,1.046s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_AdjustingEntries/span_Adjustment Details""))",Chrome 115.0.0.0,,,2023-07-25 17:22:34,2023-07-25 17:22:35,0.694s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Accounts""))",Chrome 115.0.0.0,,,2023-07-25 17:22:35,2023-07-25 17:22:36,1.355s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Accounts""))",Chrome 115.0.0.0,,,2023-07-25 17:22:36,2023-07-25 17:22:37,0.658s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Report""))",Chrome 115.0.0.0,,,2023-07-25 17:22:37,2023-07-25 17:22:38,1.006s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_AdjustingEntriesDetails/span_Book of Accounts""))",Chrome 115.0.0.0,,,2023-07-25 17:22:38,2023-07-25 17:22:39,0.653s,PASSED
+"switchToWindowTitle(""AdjustingEntriesDetails"")",Chrome 115.0.0.0,,,2023-07-25 17:22:39,2023-07-25 17:22:39,0.100s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_AdjustingEntriesDetails/span_General Ledger""))",Chrome 115.0.0.0,,,2023-07-25 17:22:39,2023-07-25 17:22:40,0.700s,PASSED
+"switchToWindowTitle(""AdjustingEntriesDetails"")",Chrome 115.0.0.0,,,2023-07-25 17:22:40,2023-07-25 17:22:40,0.094s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Report_osui-accordion-item__icon osui-a_d9ee91""))",Chrome 115.0.0.0,,,2023-07-25 17:22:40,2023-07-25 17:22:40,0.657s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Utilities""))",Chrome 115.0.0.0,,,2023-07-25 17:22:40,2023-07-25 17:22:41,0.814s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_AdjustingEntriesDetails/div_Utilities_1""))",Chrome 115.0.0.0,,,2023-07-25 17:22:41,2023-07-25 17:22:42,0.666s,PASSED
+"click(findTestObject(""Object Repository/Manage Roles/Page_AdjustingEntriesDetails/span_User Management""))",Chrome 115.0.0.0,,,2023-07-25 17:22:42,2023-07-25 17:22:43,0.718s,PASSED
+,,,,,,,
+Test Cases/UserManagement,Chrome 115.0.0.0,,,2023-07-25 17:22:43,2023-07-25 17:22:52,9.583s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Home Page/div_Utilities""))",Chrome 115.0.0.0,,,2023-07-25 17:22:44,2023-07-25 17:22:44,0.604s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Home Page/span_Utilities""))",Chrome 115.0.0.0,,,2023-07-25 17:22:44,2023-07-25 17:22:45,0.576s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Home Page/span_User Management""))",Chrome 115.0.0.0,,,2023-07-25 17:22:45,2023-07-25 17:22:46,0.634s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Manage User/i_Action_icon fa fa-plus-square fa-2x""))",Chrome 115.0.0.0,,,2023-07-25 17:22:46,2023-07-25 17:22:47,1.291s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Manage User/i_Force Logout_icon fa fa-times fa-2x""))",Chrome 115.0.0.0,,,2023-07-25 17:22:47,2023-07-25 17:22:48,0.672s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Manage User/span_Add User""))",Chrome 115.0.0.0,,,2023-07-25 17:22:48,2023-07-25 17:22:48,0.697s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Manage User/i_User Management Form_icon fa fa-times-cir_4adfb2""))",Chrome 115.0.0.0,,,2023-07-25 17:22:48,2023-07-25 17:22:49,0.703s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Manage User/div""))",Chrome 115.0.0.0,,,2023-07-25 17:22:49,2023-07-25 17:22:50,0.682s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Manage User/span_Logout""))",Chrome 115.0.0.0,,,2023-07-25 17:22:50,2023-07-25 17:22:50,0.762s,PASSED
+"click(findTestObject(""Object Repository/Users Management/New Folder/Page_Manage User/button_Logout""))",Chrome 115.0.0.0,,,2023-07-25 17:22:50,2023-07-25 17:22:51,0.680s,PASSED
+closeBrowser(),Chrome 115.0.0.0,,,2023-07-25 17:22:51,2023-07-25 17:22:52,1.019s,PASSED
